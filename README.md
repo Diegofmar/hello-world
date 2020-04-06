@@ -6,19 +6,19 @@ Primeiro projeto
  <head>
  </head>
  <body>
-  <p>Lista ordenada</p>
+  <p><i>Lista ordenada</i></p>
   <ol type="i">
    <li>A</li>
    <li>B</li>
    <li>C</li>
   </ol>
-  <p>Lista desordenada</p>
+  <p><b>Lista desordenada</b></p>
   <ul type="square">
    <li>A</li>
    <li>B</li>
    <li>C</li>
   </ul>
-  <p>Tabelas</p>
+  <p><tt>Tabelas</tt></p>
   <table width="300" height="20%">
    <tr>
     <td>Nome</td>
