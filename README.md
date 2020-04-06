@@ -5,6 +5,11 @@ Primeiro projeto
 <html>
  <head>
  </head>
- <body>Olá
+ <body>Lista ordenada
+  <ol>
+   <li>A</li>
+   <li>B</li>
+   <li>C</li>
+  </ol>
  </body>
 </html>
