@@ -18,5 +18,16 @@ Primeiro projeto
    <li>B</li>
    <li>C</li>
   </ul>
+  <p>Tabelas</p>
+  <table>
+   <tr>
+    <td>Nome</td>
+    <td>Sobrenome</td>
+   </tr>
+   <tr>
+    <td>Anna</td>
+    <td>Santos</td>
+   </tr>
+  </table>
  </body>
 </html>
