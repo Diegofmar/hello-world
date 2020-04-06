@@ -19,7 +19,7 @@ Primeiro projeto
    <li>C</li>
   </ul>
   <p>Tabelas</p>
-  <table>
+  <table width="300" height="20%">
    <tr>
     <td>Nome</td>
     <td>Sobrenome</td>
