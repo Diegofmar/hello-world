@@ -28,6 +28,10 @@ Primeiro projeto
     <td>Anna</td>
     <td>Santos</td>
    </tr>
+   <tr>
+    <td>Daniella</td>
+    <td>Souza</td>
+   </tr>
   </table>
  </body>
 </html>
